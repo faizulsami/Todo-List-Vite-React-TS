@@ -1,4 +1,4 @@
-import { FormEvent, useContext, useState } from "react"
+import { FormEvent, useState } from "react"
 import { useToDos } from "../store/ToDos";
 
 const AddTodo = () => {
